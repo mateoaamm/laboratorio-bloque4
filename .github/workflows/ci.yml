@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          echo "Build y pruebas simuladas: todo en orden"
+          exit 1
